@@ -11,10 +11,11 @@ allprojects {
 		}
 	}
 ```
+[![](https://jitpack.io/v/tk2232/EasyPermissions.svg)](https://jitpack.io/#tk2232/EasyPermissions)
 
 ```java
 dependencies {
-	        implementation 'com.github.tk2232:EasyPermissions:v1.0.1'
+	        implementation 'com.github.tk2232:EasyPermissions:version'
 	}
 ```
 
